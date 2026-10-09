@@ -17,7 +17,7 @@ This site is where I'll be logging my PhD journey — what I'm learning, buildin
 ### Interests
 - Multimodal AI for healthcare
 - Explainable/interpretable machine learning
-- Sleep and neurodegeneration
+- Sleep, neurodegeneration, and neurological injury
 - Survival analysis and time-series modelling
 
 ### Get in touch
