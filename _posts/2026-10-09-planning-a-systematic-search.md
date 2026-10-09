@@ -1,5 +1,5 @@
 ---
-title: 'Planning a systematic literature search (week 3 of my PhD)'
+title: 'Planning a systematic literature search (week 4 of my PhD)'
 date: 2026-10-09
 permalink: /posts/2026/10/planning-a-systematic-search/
 tags:
