@@ -21,4 +21,4 @@ This site is where I'll be logging my PhD journey — what I'm learning, buildin
 - Survival analysis and time-series modelling
 
 ### Get in touch
-Feel free to reach out at mrleighton1@yahoo.co.uk.
+You can find me on [LinkedIn](https://www.linkedin.com/in/michaelrleighton/)
